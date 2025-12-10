@@ -1,7 +1,8 @@
 ## Portfoilio
 >>>> Code projects
->>>> ### Project 3
-
+>>>> ### Project 3- The one I'm proud of.
+I put a lot of research and emotion into this one, since it felt pretty personal to me. I did struggle with my wording a bit, but as along as I remained focus, I got it done.
+![Screenshot_10-12-2025_143052_](https://github.com/user-attachments/assets/f824626a-11c4-4c43-bbd8-9df6c98bab78)
 
 >>>> Assignment 1- Character creation
 The very start of my time in programming, this is to show how far I've come.
